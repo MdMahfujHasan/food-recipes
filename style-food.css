@@ -1,0 +1,41 @@
+.class_1{
+    color: rgb(0, 0, 0);
+    font-family: 'Lobster', cursive;
+    text-align: center;
+
+}
+.top-nav{
+    border: 0px solid #ccc;
+    font-size: 25px;
+    text-align: center;
+    width: 100%;
+    color: rgba(255, 247, 175, 0.966);
+}
+#id_1{
+    color: rgb(163, 4, 4);
+}
+body{
+    background-image: url("sweets_cover.jpg");
+    background-size: 1400px 1000px;
+    background-repeat: no-repeat;
+}
+ul {
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    width: 200px;
+    background-color: #f6dbdb;
+  }
+  
+  li a {
+    display: block;
+    color: chocolate;
+    padding: 8px 16px;
+   text-decoration: none;
+  }
+  
+
+  li a:hover{
+    background-color: rgb(248, 155, 155);
+    color: white;
+  }
